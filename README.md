@@ -1,3 +1,6 @@
+# Links
+The project is live at: https://nft-project-mu-flame.vercel.app/home
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
